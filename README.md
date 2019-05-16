@@ -1,1 +1,0 @@
-# Starter-Code-Animations-and-Collisions-Project
